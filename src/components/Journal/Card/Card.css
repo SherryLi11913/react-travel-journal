@@ -1,0 +1,60 @@
+.card-container {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 18px 0;
+    border-bottom: 1px solid #F5F5F5;
+}
+
+.card-cover {
+    width: 20%;
+}
+
+.card-cover-img {
+    width: 100%;
+    aspect-ratio: 3 / 4;
+    border-radius: 5px;
+    object-fit: cover;
+}
+
+.card-detail {
+    width: 78%;
+    color: #2B283A;
+}
+
+.card-location {
+    font-size: 10px;
+    line-height: 12px;
+    display: flex;
+    align-items: center;
+}
+
+.card-country-icon {
+    width: 7px;
+    margin-right: 4px;
+}
+
+.card-location-map {
+    margin-left: 12px;
+    color: #918E9B;
+}
+
+.card-title {
+    font-weight: 700;
+    font-size: 25px;
+    line-height: 30px;
+    margin: 4px 0 7px;
+}
+
+.card-dates {
+    font-weight: 700;
+    font-size: 10px;
+    line-height: 12px;
+    margin: 0 0 9px;
+}
+
+.card-description {
+    font-size: 10px;
+    line-height: 150%;
+}

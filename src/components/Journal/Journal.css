@@ -1,0 +1,8 @@
+.journal-container {
+    width: calc(100% - 80px);
+    margin: 27px 40px;
+}
+
+.card-container:last-child {
+    border-bottom: 0;
+}
