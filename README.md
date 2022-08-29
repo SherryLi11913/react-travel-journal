@@ -2,6 +2,9 @@
 ## Description
 This is a React project practice.
 
+## Key Points to Practice
+- Props
+
 ## Mockup
 [Figma mockup](https://www.figma.com/file/QG4cOExkdbIbhSfWJhs2gs/Travel-Journal?node-id=2%3A2)
 
